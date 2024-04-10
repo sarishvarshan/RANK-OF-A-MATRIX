@@ -19,7 +19,7 @@ end the program
 ## Program:
 #Program to find the rank of a matrix.
 #Developed by: Sarish Varshan V
-#RegisterNumber: 212223230196
+#Register Number: 212223230196
 ```
 import numpy as np
 A=np.array([[5,-3,10],[2,2,-3],[-3,-1,5]])
